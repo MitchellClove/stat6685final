@@ -1,3 +1,11 @@
 mallorn-astronomical*
 data/
 mallorn-astronomical-classification-challenge.zip
+
+# Dylan's Stuff
+catboost_info/
+test_features*
+train_features*
+submission_dylan_hammond*
+catboost_02
+catboost_03
